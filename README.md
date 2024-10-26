@@ -1,7 +1,7 @@
 # Hi 👋, I'm Punchapon Pumpuang
 ### I am seeking a full-time position in website development or software engineer
 
-- 🌱 I’m currently learning **Nuxt**
+- 🌱 I’m currently learning **Go**
 
 - 📫 How to reach me **punchapon.pp@gmail.com**
 
