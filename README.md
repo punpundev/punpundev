@@ -6,7 +6,7 @@
 - 📫 How to reach me **punchapon.pp@gmail.com**
 
 ## Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,css,bots,docker,express,figma,git,html,js,jquery,laravel,mongodb,nodejs,npm,nuxtjs,php,postman,py,sequelize,tailwind,ts,vercel,vite,vue,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,css,bots,docker,express,figma,git,html,js,jquery,laravel,mongodb,nextjs,nginx,nodejs,npm,nuxtjs,php,postman,py,react,sequelize,tailwind,ts,vercel,vite,vue,wordpress)](https://skillicons.dev)
 
 ## Recent Projects
 |PROJECT|YEAR|TECHNOLOGIES|
